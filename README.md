@@ -8,6 +8,11 @@ Given a set of keywords, the program suggests up to four keywords based on the i
 - Matches are case-insensitive
 - Suggestions are returned in alphabetical order
 
+## Technologies Used
+- **Java**: Programming language used to implement the autocomplete functionality.
+- **JUnit**: For testing.
+- **Maven**: Manage project dependencies and build the project.
+
 ## Usage
 
 To use this functionality, you can call the method `getResults(String input)` by providing and input string in the `main` method. 
